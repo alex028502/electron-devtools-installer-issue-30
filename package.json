@@ -1,0 +1,12 @@
+{
+  "name": "electron-devtools-installer-issue-30",
+  "description": "something for an existing github issue",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "electron": "^2.0.2",
+    "electron-devtools-installer": "^2.2.4"
+  }
+}
